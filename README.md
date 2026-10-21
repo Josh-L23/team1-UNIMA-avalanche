@@ -1,4 +1,4 @@
-# team1-UNIMA-avalanche
+# Team1 UNIMA G4
 
 ## Group 4 Project Idea
 
